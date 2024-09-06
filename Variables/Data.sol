@@ -22,6 +22,6 @@ contract DataNestedMapping {
         return nested[_add][_i];
 
     }
-    
+
 
 }
